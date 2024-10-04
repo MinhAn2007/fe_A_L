@@ -1,0 +1,35 @@
+.jsMainParent {
+    width: 100vw;
+    height: 73vh;
+    background-color: #f4f3f0;
+}
+
+.jsLeft {
+    position: relative;
+    top: 5rem;
+    left: 13rem;
+}
+
+.readBtn {
+    border: none;
+    background-color: #252525;
+    width: 11rem;
+    height: 3rem;
+    color: white;
+    transition: 350ms ease;
+    left: 1.8rem;
+    top: 3rem;
+    position: relative;
+}
+
+.readBtn:hover {
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+
+
+.jsRightText{
+    left: 43rem;
+    top: -8rem;
+}
